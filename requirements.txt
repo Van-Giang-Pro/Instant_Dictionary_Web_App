@@ -1,0 +1,4 @@
+justpy~=0.2.3
+pandas==1.3.5
+wp~=0.1.0
+requests~=2.27.1
