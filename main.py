@@ -18,4 +18,3 @@ for obj in imports:
 # jp.Route(Dictionary.path, Dictionary.serve)
 
 jp.justpy(port=8001)
-

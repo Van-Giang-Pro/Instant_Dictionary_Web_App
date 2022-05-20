@@ -26,5 +26,3 @@ class Home(page.Page):
 					   That is my dream.""",
 		       classes='text-lg')
 		return wp
-
-
